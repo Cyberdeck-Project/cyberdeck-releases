@@ -1,6 +1,6 @@
 # Cyberdeck Releases repository file guide
 
-This public repository is the anonymous update feed used by installed Cyberdeck clients. Its file inventory was read from `main` on 2026-11-19 and updated to include the repository-local `AGENTS.md` pointer. The files are deliberately encrypted update packages with detached signatures; the repository does not contain the installer, source code, diagnostic reports, or signing private key.
+This public repository is the anonymous update feed used by installed Cyberdeck clients. Its file inventory was read from `main` on 2026-11-19 and updated to include the repository-local `AGENTS.md` pointer and this repository's `README.md`. The files are deliberately encrypted update packages with detached signatures; the repository does not contain the installer, source code, diagnostic reports, or signing private key.
 
 ## How to read the filenames
 
@@ -68,6 +68,7 @@ The version is part of both filenames. Do not mix a package with another version
 
 ## Repository documentation
 
+- [`README.md`](README.md) — explains the public encrypted update feed and distinguishes it from the private installer download.
 - [`FILE-GUIDE.md`](FILE-GUIDE.md) — this inventory and handling guide; it is documentation, not an update payload.
 - [`AGENTS.md`](AGENTS.md) — repository-local pointer to the authoritative project-wide contributor instructions in `Cyberdeck-Project/cyberdeck-project-guidance`.
 
