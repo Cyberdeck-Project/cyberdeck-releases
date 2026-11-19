@@ -66,6 +66,10 @@ The version is part of both filenames. Do not mix a package with another version
 | 0.1.73 | [`Cyberdeck-Windows-Update-0.1.73.cybenc`](Cyberdeck-Windows-Update-0.1.73.cybenc) — encrypted update payload (126640 bytes) | [`Cyberdeck-Windows-Update-0.1.73.cybenc.sig`](Cyberdeck-Windows-Update-0.1.73.cybenc.sig) — detached Ed25519 signature for that exact payload (88 bytes) |
 | 0.1.74 | [`Cyberdeck-Windows-Update-0.1.74.cybenc`](Cyberdeck-Windows-Update-0.1.74.cybenc) — encrypted update payload (126620 bytes) | [`Cyberdeck-Windows-Update-0.1.74.cybenc.sig`](Cyberdeck-Windows-Update-0.1.74.cybenc.sig) — detached Ed25519 signature for that exact payload (88 bytes) |
 
+## Repository documentation
+
+- [`FILE-GUIDE.md`](FILE-GUIDE.md) — this inventory and handling guide; it is documentation, not an update payload.
+
 ## Ongoing changes
 
 The table is a snapshot of tracked files on the inspected commit. New releases add another matched pair. When a version is added, removed, or replaced, update this guide in that same release change. Missing version numbers are intentional gaps; they do not imply a missing file should be recreated.
