@@ -1,6 +1,6 @@
 # Cyberdeck Releases repository file guide
 
-This public repository is the anonymous update feed used by installed Cyberdeck clients. This inventory was read from the `main` branch on 2026-11-19 at tree bab7ee5d1fef58f61e990f228977b84d1e7a28cd. The files are deliberately encrypted update packages with detached signatures; the repository does not contain the installer, source code, diagnostic reports, or signing private key.
+This public repository is the anonymous update feed used by installed Cyberdeck clients. Its file inventory was read from `main` on 2026-11-19 and updated to include the repository-local `AGENTS.md` pointer. The files are deliberately encrypted update packages with detached signatures; the repository does not contain the installer, source code, diagnostic reports, or signing private key.
 
 ## How to read the filenames
 
