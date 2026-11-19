@@ -69,6 +69,7 @@ The version is part of both filenames. Do not mix a package with another version
 ## Repository documentation
 
 - [`FILE-GUIDE.md`](FILE-GUIDE.md) — this inventory and handling guide; it is documentation, not an update payload.
+- [`AGENTS.md`](AGENTS.md) — repository-local pointer to the authoritative project-wide contributor instructions in `Cyberdeck-Project/cyberdeck-project-guidance`.
 
 ## Ongoing changes
 
