@@ -9,7 +9,7 @@ Each version is published as a matched pair:
 - `Cyberdeck-Windows-Update-<version>.cybenc` is the encrypted Windows update package downloaded by Cyberdeck.
 - `Cyberdeck-Windows-Update-<version>.cybenc.sig` is the detached Ed25519 signature that authenticates that exact package before the client decrypts or installs it.
 
-The version is part of both filenames. Do not mix a package with another version's signature, manually replace files, or add installers, source archives, private keys, diagnostic data, or plaintext update packages. GitHub Actions in the private Windows source repository owns publishing.
+The version is part of both filenames. Do not mix a package with another version's signature, manually replace files, or add installers, source archives, private keys, diagnostic data, or plaintext update packages. GitHub Actions in the private application source repository owns publishing.
 
 ## Every tracked update file
 
