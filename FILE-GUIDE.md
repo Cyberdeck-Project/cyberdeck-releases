@@ -65,6 +65,7 @@ The version is part of both filenames. Do not mix a package with another version
 | 0.1.72 | [`Cyberdeck-Application-Update-0.1.72.cybenc`](Cyberdeck-Application-Update-0.1.72.cybenc) — encrypted update payload (126376 bytes) | [`Cyberdeck-Application-Update-0.1.72.cybenc.sig`](Cyberdeck-Application-Update-0.1.72.cybenc.sig) — detached Ed25519 signature for that exact payload (88 bytes) |
 | 0.1.73 | [`Cyberdeck-Application-Update-0.1.73.cybenc`](Cyberdeck-Application-Update-0.1.73.cybenc) — encrypted update payload (126640 bytes) | [`Cyberdeck-Application-Update-0.1.73.cybenc.sig`](Cyberdeck-Application-Update-0.1.73.cybenc.sig) — detached Ed25519 signature for that exact payload (88 bytes) |
 | 0.1.74 | [`Cyberdeck-Application-Update-0.1.74.cybenc`](Cyberdeck-Application-Update-0.1.74.cybenc) — encrypted update payload (126620 bytes) | [`Cyberdeck-Application-Update-0.1.74.cybenc.sig`](Cyberdeck-Application-Update-0.1.74.cybenc.sig) — detached Ed25519 signature for that exact payload (88 bytes) |
+| 0.1.75 | [`Cyberdeck-Application-Update-0.1.75.cybenc`](Cyberdeck-Application-Update-0.1.75.cybenc) — encrypted update payload (126624 bytes) | [`Cyberdeck-Application-Update-0.1.75.cybenc.sig`](Cyberdeck-Application-Update-0.1.75.cybenc.sig) — detached Ed25519 signature for that exact payload (88 bytes) |
 
 ## Repository documentation
 
