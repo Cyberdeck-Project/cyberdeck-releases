@@ -4,6 +4,6 @@ This public repository hosts the encrypted, signed update packages used by insta
 
 This repository is the update feed, not the installer download or source-code repository. New users get the one-file installer from the private, invite-only [Cyberdeck Installer releases](https://github.com/Cyberdeck-Project/cyberdeck-installer/releases).
 
-Each update version has a matching `.cybenc` package and `.cybenc.sig` signature. GitHub Actions in the private Windows source repository publishes these files. Do not manually replace or mix packages and signatures.
+Each update version has a matching `.cybenc` package and `.cybenc.sig` signature. GitHub Actions in the private application source repository publishes these files. Do not manually replace or mix packages and signatures.
 
 See [FILE-GUIDE.md](FILE-GUIDE.md) for the tracked-file inventory.
