@@ -1,4 +1,4 @@
-# Cyberdeck update feed
+# cyberdeck-releases
 
 This public repository hosts the encrypted, signed update packages used by installed Cyberdeck for Windows apps. Cyberdeck checks this feed and verifies each package before installing it; users do not need a GitHub account for in-app updates.
 
